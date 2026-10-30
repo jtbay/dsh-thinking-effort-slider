@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Thinking Effort Slider",
+    "description": "A borderless green-blue-gold-red thinking-effort track inside the composer above the model control. The composer border and send button follow the active level when idle; while a reply is running, the colored border and gray elevation ring are removed, leaving only a soft glow that pulses every 1.5 seconds. Dot clicks show a fading, conversation-centered level toast."
+  }
+}
